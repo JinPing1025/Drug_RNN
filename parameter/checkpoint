@@ -1,0 +1,2 @@
+model_checkpoint_path: "2-NLSTM"
+all_model_checkpoint_paths: "2-NLSTM"
