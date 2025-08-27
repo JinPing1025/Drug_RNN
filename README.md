@@ -25,4 +25,4 @@ Folder datasets contains pre-training or transfer learning molecules, folder gen
 For more details about the methodology and experimental results, please refer to the paper:
 **Generation of focused drug molecule library using recurrent neural network**  
 Jinping Zou, Long Zhao, Shaoping Shi (2023), *Journal of Molecular Modeling*, **29(12):361**, published on November 6, 2023.  
-**DOI:** [10.1007/s00894-023-05772-5](https://doi.org/10.1007/s00894-023-05772-5) :contentReference[oaicite:0]{index=0}
+**DOI:** [10.1007/s00894-023-05772-5](https://doi.org/10.1007/s00894-023-05772-5)
