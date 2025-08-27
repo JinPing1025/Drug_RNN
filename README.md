@@ -23,4 +23,4 @@ Folder datasets contains pre-training or transfer learning molecules, folder gen
 
 # 📖 Article
 For more details about the methodology and experimental results, please refer to my article:  
-[👉 Click here to view the paper](10.1007/s00894-023-05772-5)
+[👉 Click here to view the paper：10.1007/s00894-023-05772-5]
