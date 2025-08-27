@@ -21,4 +21,6 @@ Or provide training set molecules into coding for model training.
 # 💥 Dataset
 Folder datasets contains pre-training or transfer learning molecules, folder generate contains the molecules generated after transfer learning, folder gen_data is based on the generation model or machine learning model screening molecules.
 
-
+# 📖 Article
+For more details about the methodology and experimental results, please refer to my article:  
+[👉 Click here to view the paper](10.1007/s00894-023-05772-5)
