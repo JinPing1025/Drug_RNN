@@ -26,3 +26,7 @@ For more details about the methodology and experimental results, please refer to
 
 **Generation of focused drug molecule library using recurrent neural network**  
 **DOI:** [10.1007/s00894-023-05772-5](https://doi.org/10.1007/s00894-023-05772-5)
+
+# 📬 Contact
+If you have any questions or suggestions, please feel free to contact me:  
+📧 Email: 359100230009@email.ncu.edu.cn
