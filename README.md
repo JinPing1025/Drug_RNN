@@ -14,11 +14,11 @@ Refer to requirement.txt
 pip install -r requirement.txt
 ```
 
-# 🩴 Running this Model
+# ✈ Running this Model
 You need to open main.py, run load_weights to read the pre-trained weights and get the generated molecules.
 Or provide training set molecules into coding for model training.
 
-# Dataset
+# 💥 Dataset
 Folder datasets contains pre-training or transfer learning molecules, folder generate contains the molecules generated after transfer learning, folder gen_data is based on the generation model or machine learning model screening molecules.
 
 
