@@ -1,4 +1,4 @@
-# Drug_RNN
+# 🏕 Drug_RNN
 A molecular generation model based on deep learning algorithm. The generation task is implemented in the TensorFlow framework, allowing the user to run the model to generate a focused library of drug-like molecules.
 
 # Requirement
